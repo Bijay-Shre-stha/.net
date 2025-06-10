@@ -1,0 +1,14 @@
+D:\6 sem\dot-net\first-class\bin\Debug\net9.0\first-class.exe
+D:\6 sem\dot-net\first-class\bin\Debug\net9.0\first-class.deps.json
+D:\6 sem\dot-net\first-class\bin\Debug\net9.0\first-class.runtimeconfig.json
+D:\6 sem\dot-net\first-class\bin\Debug\net9.0\first-class.dll
+D:\6 sem\dot-net\first-class\bin\Debug\net9.0\first-class.pdb
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\first-class.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\first-class.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\first-class.AssemblyInfo.cs
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\first-class.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\first-class.dll
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\refint\first-class.dll
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\first-class.pdb
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\first-class.genruntimeconfig.cache
+D:\6 sem\dot-net\first-class\obj\Debug\net9.0\ref\first-class.dll

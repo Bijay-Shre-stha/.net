@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\ReadWriteProperties\bin\Debug\net9.0\ReadWriteProperties.exe
+D:\6 sem\dot-net\ReadWriteProperties\bin\Debug\net9.0\ReadWriteProperties.deps.json
+D:\6 sem\dot-net\ReadWriteProperties\bin\Debug\net9.0\ReadWriteProperties.runtimeconfig.json
+D:\6 sem\dot-net\ReadWriteProperties\bin\Debug\net9.0\ReadWriteProperties.dll
+D:\6 sem\dot-net\ReadWriteProperties\bin\Debug\net9.0\ReadWriteProperties.pdb
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ReadWriteProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ReadWriteProperties.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ReadWriteProperties.AssemblyInfo.cs
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ReadWriteProperties.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ReadWriteProperties.sourcelink.json
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ReadWriteProperties.dll
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\refint\ReadWriteProperties.dll
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ReadWriteProperties.pdb
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ReadWriteProperties.genruntimeconfig.cache
+D:\6 sem\dot-net\ReadWriteProperties\obj\Debug\net9.0\ref\ReadWriteProperties.dll

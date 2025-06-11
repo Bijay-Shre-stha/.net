@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\ParameterizedConstructor\bin\Debug\net9.0\ParameterizedConstructor.exe
+D:\6 sem\dot-net\ParameterizedConstructor\bin\Debug\net9.0\ParameterizedConstructor.deps.json
+D:\6 sem\dot-net\ParameterizedConstructor\bin\Debug\net9.0\ParameterizedConstructor.runtimeconfig.json
+D:\6 sem\dot-net\ParameterizedConstructor\bin\Debug\net9.0\ParameterizedConstructor.dll
+D:\6 sem\dot-net\ParameterizedConstructor\bin\Debug\net9.0\ParameterizedConstructor.pdb
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ParameterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ParameterizedConstructor.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ParameterizedConstructor.AssemblyInfo.cs
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ParameterizedConstructor.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ParameterizedConstructor.sourcelink.json
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ParameterizedConstructor.dll
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\refint\ParameterizedConstructor.dll
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ParameterizedConstructor.pdb
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ParameterizedConstructor.genruntimeconfig.cache
+D:\6 sem\dot-net\ParameterizedConstructor\obj\Debug\net9.0\ref\ParameterizedConstructor.dll

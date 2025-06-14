@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Strings\bin\Debug\net9.0\Strings.exe
+D:\6 sem\dot-net\Code\Strings\bin\Debug\net9.0\Strings.deps.json
+D:\6 sem\dot-net\Code\Strings\bin\Debug\net9.0\Strings.runtimeconfig.json
+D:\6 sem\dot-net\Code\Strings\bin\Debug\net9.0\Strings.dll
+D:\6 sem\dot-net\Code\Strings\bin\Debug\net9.0\Strings.pdb
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\Strings.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\Strings.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\Strings.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\Strings.sourcelink.json
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\Strings.dll
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\refint\Strings.dll
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\Strings.pdb
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\Strings.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Strings\obj\Debug\net9.0\ref\Strings.dll

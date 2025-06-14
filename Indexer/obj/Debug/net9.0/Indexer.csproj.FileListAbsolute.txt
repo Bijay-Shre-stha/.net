@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Indexer\bin\Debug\net9.0\Indexer.exe
+D:\6 sem\dot-net\Code\Indexer\bin\Debug\net9.0\Indexer.deps.json
+D:\6 sem\dot-net\Code\Indexer\bin\Debug\net9.0\Indexer.runtimeconfig.json
+D:\6 sem\dot-net\Code\Indexer\bin\Debug\net9.0\Indexer.dll
+D:\6 sem\dot-net\Code\Indexer\bin\Debug\net9.0\Indexer.pdb
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\Indexer.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\Indexer.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\Indexer.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\Indexer.sourcelink.json
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\Indexer.dll
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\refint\Indexer.dll
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\Indexer.pdb
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\Indexer.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Indexer\obj\Debug\net9.0\ref\Indexer.dll

@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Overriding\bin\Debug\net9.0\Overriding.exe
+D:\6 sem\dot-net\Code\Overriding\bin\Debug\net9.0\Overriding.deps.json
+D:\6 sem\dot-net\Code\Overriding\bin\Debug\net9.0\Overriding.runtimeconfig.json
+D:\6 sem\dot-net\Code\Overriding\bin\Debug\net9.0\Overriding.dll
+D:\6 sem\dot-net\Code\Overriding\bin\Debug\net9.0\Overriding.pdb
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\Overriding.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\Overriding.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\Overriding.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\Overriding.sourcelink.json
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\Overriding.dll
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\refint\Overriding.dll
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\Overriding.pdb
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\Overriding.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Overriding\obj\Debug\net9.0\ref\Overriding.dll

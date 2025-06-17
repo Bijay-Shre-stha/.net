@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\VirtualAndOverride\bin\Debug\net9.0\VirtualAndOverride.exe
+D:\6 sem\dot-net\Code\VirtualAndOverride\bin\Debug\net9.0\VirtualAndOverride.deps.json
+D:\6 sem\dot-net\Code\VirtualAndOverride\bin\Debug\net9.0\VirtualAndOverride.runtimeconfig.json
+D:\6 sem\dot-net\Code\VirtualAndOverride\bin\Debug\net9.0\VirtualAndOverride.dll
+D:\6 sem\dot-net\Code\VirtualAndOverride\bin\Debug\net9.0\VirtualAndOverride.pdb
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\VirtualAndOverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\VirtualAndOverride.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\VirtualAndOverride.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\VirtualAndOverride.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\VirtualAndOverride.sourcelink.json
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\VirtualAndOverride.dll
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\refint\VirtualAndOverride.dll
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\VirtualAndOverride.pdb
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\VirtualAndOverride.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\VirtualAndOverride\obj\Debug\net9.0\ref\VirtualAndOverride.dll

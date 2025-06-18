@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Struct\bin\Debug\net9.0\Struct.exe
+D:\6 sem\dot-net\Code\Struct\bin\Debug\net9.0\Struct.deps.json
+D:\6 sem\dot-net\Code\Struct\bin\Debug\net9.0\Struct.runtimeconfig.json
+D:\6 sem\dot-net\Code\Struct\bin\Debug\net9.0\Struct.dll
+D:\6 sem\dot-net\Code\Struct\bin\Debug\net9.0\Struct.pdb
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\Struct.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\Struct.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\Struct.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\Struct.sourcelink.json
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\Struct.dll
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\refint\Struct.dll
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\Struct.pdb
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\Struct.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Struct\obj\Debug\net9.0\ref\Struct.dll

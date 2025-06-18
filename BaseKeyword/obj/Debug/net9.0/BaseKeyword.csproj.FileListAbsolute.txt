@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\BaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\BaseKeyword.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\BaseKeyword.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\BaseKeyword.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\BaseKeyword.sourcelink.json
+D:\6 sem\dot-net\Code\BaseKeyword\bin\Debug\net9.0\BaseKeyword.exe
+D:\6 sem\dot-net\Code\BaseKeyword\bin\Debug\net9.0\BaseKeyword.deps.json
+D:\6 sem\dot-net\Code\BaseKeyword\bin\Debug\net9.0\BaseKeyword.runtimeconfig.json
+D:\6 sem\dot-net\Code\BaseKeyword\bin\Debug\net9.0\BaseKeyword.dll
+D:\6 sem\dot-net\Code\BaseKeyword\bin\Debug\net9.0\BaseKeyword.pdb
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\BaseKeyword.dll
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\refint\BaseKeyword.dll
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\BaseKeyword.pdb
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\BaseKeyword.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\BaseKeyword\obj\Debug\net9.0\ref\BaseKeyword.dll

@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Partial-Class\bin\Debug\net9.0\Partial-Class.exe
+D:\6 sem\dot-net\Code\Partial-Class\bin\Debug\net9.0\Partial-Class.deps.json
+D:\6 sem\dot-net\Code\Partial-Class\bin\Debug\net9.0\Partial-Class.runtimeconfig.json
+D:\6 sem\dot-net\Code\Partial-Class\bin\Debug\net9.0\Partial-Class.dll
+D:\6 sem\dot-net\Code\Partial-Class\bin\Debug\net9.0\Partial-Class.pdb
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\Partial-Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\Partial-Class.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\Partial-Class.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\Partial-Class.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\Partial-Class.sourcelink.json
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\Partial-Class.dll
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\refint\Partial-Class.dll
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\Partial-Class.pdb
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\Partial-Class.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Partial-Class\obj\Debug\net9.0\ref\Partial-Class.dll

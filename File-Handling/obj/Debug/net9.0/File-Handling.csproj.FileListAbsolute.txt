@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\File-Handling\bin\Debug\net9.0\File-Handling.exe
+D:\6 sem\dot-net\Code\File-Handling\bin\Debug\net9.0\File-Handling.deps.json
+D:\6 sem\dot-net\Code\File-Handling\bin\Debug\net9.0\File-Handling.runtimeconfig.json
+D:\6 sem\dot-net\Code\File-Handling\bin\Debug\net9.0\File-Handling.dll
+D:\6 sem\dot-net\Code\File-Handling\bin\Debug\net9.0\File-Handling.pdb
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\File-Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\File-Handling.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\File-Handling.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\File-Handling.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\File-Handling.sourcelink.json
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\File-Handling.dll
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\refint\File-Handling.dll
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\File-Handling.pdb
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\File-Handling.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\File-Handling\obj\Debug\net9.0\ref\File-Handling.dll

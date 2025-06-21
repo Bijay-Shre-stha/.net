@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\Dictionary.sourcelink.json
+D:\6 sem\dot-net\Code\Dictionary\bin\Debug\net9.0\Dictionary.exe
+D:\6 sem\dot-net\Code\Dictionary\bin\Debug\net9.0\Dictionary.deps.json
+D:\6 sem\dot-net\Code\Dictionary\bin\Debug\net9.0\Dictionary.runtimeconfig.json
+D:\6 sem\dot-net\Code\Dictionary\bin\Debug\net9.0\Dictionary.dll
+D:\6 sem\dot-net\Code\Dictionary\bin\Debug\net9.0\Dictionary.pdb
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\Dictionary.dll
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\refint\Dictionary.dll
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\Dictionary.pdb
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\Dictionary.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Dictionary\obj\Debug\net9.0\ref\Dictionary.dll

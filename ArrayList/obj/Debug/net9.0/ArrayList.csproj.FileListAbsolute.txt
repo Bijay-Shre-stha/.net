@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\ArrayList\bin\Debug\net9.0\ArrayList.exe
+D:\6 sem\dot-net\Code\ArrayList\bin\Debug\net9.0\ArrayList.deps.json
+D:\6 sem\dot-net\Code\ArrayList\bin\Debug\net9.0\ArrayList.runtimeconfig.json
+D:\6 sem\dot-net\Code\ArrayList\bin\Debug\net9.0\ArrayList.dll
+D:\6 sem\dot-net\Code\ArrayList\bin\Debug\net9.0\ArrayList.pdb
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ArrayList.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ArrayList.sourcelink.json
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ArrayList.dll
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\refint\ArrayList.dll
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ArrayList.pdb
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ArrayList.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\ArrayList\obj\Debug\net9.0\ref\ArrayList.dll

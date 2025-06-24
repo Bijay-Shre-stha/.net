@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Exception-Handling\bin\Debug\net9.0\Exception-Handling.exe
+D:\6 sem\dot-net\Code\Exception-Handling\bin\Debug\net9.0\Exception-Handling.deps.json
+D:\6 sem\dot-net\Code\Exception-Handling\bin\Debug\net9.0\Exception-Handling.runtimeconfig.json
+D:\6 sem\dot-net\Code\Exception-Handling\bin\Debug\net9.0\Exception-Handling.dll
+D:\6 sem\dot-net\Code\Exception-Handling\bin\Debug\net9.0\Exception-Handling.pdb
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\Exception-Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\Exception-Handling.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\Exception-Handling.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\Exception-Handling.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\Exception-Handling.sourcelink.json
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\Exception-Handling.dll
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\refint\Exception-Handling.dll
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\Exception-Handling.pdb
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\Exception-Handling.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Exception-Handling\obj\Debug\net9.0\ref\Exception-Handling.dll

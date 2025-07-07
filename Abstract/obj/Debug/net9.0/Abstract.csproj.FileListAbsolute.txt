@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Abstract\bin\Debug\net9.0\Abstract.exe
+D:\6 sem\dot-net\Code\Abstract\bin\Debug\net9.0\Abstract.deps.json
+D:\6 sem\dot-net\Code\Abstract\bin\Debug\net9.0\Abstract.runtimeconfig.json
+D:\6 sem\dot-net\Code\Abstract\bin\Debug\net9.0\Abstract.dll
+D:\6 sem\dot-net\Code\Abstract\bin\Debug\net9.0\Abstract.pdb
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\Abstract.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\Abstract.sourcelink.json
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\Abstract.dll
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\refint\Abstract.dll
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\Abstract.pdb
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\Abstract.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Abstract\obj\Debug\net9.0\ref\Abstract.dll

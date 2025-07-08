@@ -1,0 +1,15 @@
+D:\6 sem\dot-net\Code\Delegate-Forms\bin\Debug\net9.0-windows\Delegate-Forms.exe
+D:\6 sem\dot-net\Code\Delegate-Forms\bin\Debug\net9.0-windows\Delegate-Forms.deps.json
+D:\6 sem\dot-net\Code\Delegate-Forms\bin\Debug\net9.0-windows\Delegate-Forms.runtimeconfig.json
+D:\6 sem\dot-net\Code\Delegate-Forms\bin\Debug\net9.0-windows\Delegate-Forms.dll
+D:\6 sem\dot-net\Code\Delegate-Forms\bin\Debug\net9.0-windows\Delegate-Forms.pdb
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\Delegate-Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\Delegate-Forms.AssemblyInfoInputs.cache
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\Delegate-Forms.AssemblyInfo.cs
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\Delegate-Forms.csproj.CoreCompileInputs.cache
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\Delegate-Forms.sourcelink.json
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\Delegate-Forms.dll
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\refint\Delegate-Forms.dll
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\Delegate-Forms.pdb
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\Delegate-Forms.genruntimeconfig.cache
+D:\6 sem\dot-net\Code\Delegate-Forms\obj\Debug\net9.0-windows\ref\Delegate-Forms.dll

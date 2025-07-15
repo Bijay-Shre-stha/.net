@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualAndOverride")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1c4e64002e672c2cbdc182ae22efc323c5c9c7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8688fe45b27f990dd0c8d42002a344f8b2851d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualAndOverride")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualAndOverride")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

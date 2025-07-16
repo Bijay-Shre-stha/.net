@@ -1,0 +1,11 @@
+@model List<Web.Models.Student>
+
+@foreach (var student in Model)
+{
+    <div class="card">
+        <h2>@student.Name</h2>
+        <p>Age: @student.Age</p>
+        <p>Batch: @student.Batch</p>
+        <p>Student ID: @student.Id</p>
+    </div>
+}

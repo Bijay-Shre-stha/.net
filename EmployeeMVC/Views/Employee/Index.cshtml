@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Employee Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Employee Management</h1>
+    <p>Manage your employees efficiently with our ASP.NET Core application.</p>
+    <p>Use the navigation links to view employee details or all employees.</p>
+</div>
+
+<p>Welcome to the Employee Management System!</p>
+
+<p>Use the links below to navigate:</p>
+<ul>
+    <li><a href="@Url.Action("Details", "Employee", new { id = 1 })">View Employee Details</a></li>
+    <li><a href="@Url.Action("AllEmployees", "Employee")">View All Employees</a></li>
+</ul>

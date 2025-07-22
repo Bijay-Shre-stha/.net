@@ -1,0 +1,17 @@
+@model List<Sales.Models.Product>
+@{
+    ViewData["Title"] = "Product List";
+}
+@foreach (var product in Model)
+{
+    <div class="card mb-3 p-3">
+        <h2>@product.Name</h2>
+        <p>Price: @product.Price</p>
+        <p>Quantity: @product.Quantity</p>
+        <div class="">
+
+            <button class="btn btn-success">Edit</button>
+            <button class="btn btn-danger">Delete</button>
+        </div>
+    </div>
+}

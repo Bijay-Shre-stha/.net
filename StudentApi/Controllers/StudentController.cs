@@ -18,82 +18,116 @@ namespace StudentApi.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            var students = _context.Students.ToList();
-            return Ok(students);
+            try
+            {
+                var students = _context.Students.ToList();
+                return Ok(students);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "An error occurred while retrieving students.", error = ex.Message });
+            }
         }
 
         [HttpGet("{id}")]
         public ActionResult<Student> GetById(int id)
         {
-            var student = _context.Students.Find(id);
+            try
+            {
+                var student = _context.Students.Find(id);
 
-            if (student == null)
-                return NotFound(new { message = $"Student with ID {id} not found." });
-            return Ok(student);
+                if (student == null)
+                    return NotFound(new { message = $"Student with ID {id} not found." });
+                return Ok(student);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "An error occurred while retrieving the student.", error = ex.Message });
+            }
         }
 
         [HttpPost]
         public IActionResult Create([FromBody] Student student)
         {
-            if (student == null  || student.Age <= 0)
+            try
             {
-                return BadRequest(new { message = "Invalid student data." });
-            }
-
-            _context.Students.Add(student);
-            _context.SaveChanges();
-
-            return CreatedAtAction(
-                nameof(GetById),
-                new { id = student.Id },
-                new
+                if (student == null || student.Age <= 0)
                 {
-                    message = "Student created successfully.",
-                    data = student
-                });
+                    return BadRequest(new { message = "Invalid student data." });
+                }
+
+                _context.Students.Add(student);
+                _context.SaveChanges();
+
+                return CreatedAtAction(
+                    nameof(GetById),
+                    new { id = student.Id },
+                    new
+                    {
+                        message = "Student created successfully.",
+                        data = student
+                    });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "An error occurred while creating the student.", error = ex.Message });
+            }
         }
 
         [HttpPut("{id}")]
         public IActionResult Update(int id, [FromBody] Student student)
         {
-            if (student == null || string.IsNullOrWhiteSpace(student.Name) || student.Age <= 0)
+            try
             {
-                return BadRequest(new { message = "Invalid student data." });
+                if (student == null || string.IsNullOrWhiteSpace(student.Name) || student.Age <= 0)
+                {
+                    return BadRequest(new { message = "Invalid student data." });
+                }
+
+                var existingStudent = _context.Students.Find(id);
+                if (existingStudent == null)
+                {
+                    return NotFound(new { message = $"Student with ID {id} not found." });
+                }
+
+                existingStudent.Name = student.Name;
+                existingStudent.Age = student.Age;
+
+                _context.Students.Update(existingStudent);
+                _context.SaveChanges();
+
+                return Ok(new
+                {
+                    message = "Student updated successfully.",
+                    data = existingStudent
+                });
             }
-
-            var existingStudent = _context.Students.Find(id);
-            if (existingStudent == null)
+            catch (Exception ex)
             {
-                return NotFound(new { message = $"Student with ID {id} not found." });
+                return StatusCode(500, new { message = "An error occurred while updating the student.", error = ex.Message });
             }
-
-            existingStudent.Name = student.Name;
-            existingStudent.Age = student.Age;
-
-            _context.Students.Update(existingStudent);
-            _context.SaveChanges();
-
-            return Ok(new
-            {
-                message = "Student updated successfully.",
-                data = existingStudent
-            });
         }
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            var student = _context.Students.Find(id);
-            if (student == null)
+            try
             {
-                return NotFound(new { message = $"Student with ID {id} not found." });
+                var student = _context.Students.Find(id);
+                if (student == null)
+                {
+                    return NotFound(new { message = $"Student with ID {id} not found." });
+                }
+
+                _context.Students.Remove(student);
+                _context.SaveChanges();
+
+                return Ok(new { message = "Student deleted successfully." });
             }
-
-            _context.Students.Remove(student);
-            _context.SaveChanges();
-
-            return Ok(new { message = "Student deleted successfully." });
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "An error occurred while deleting the student.", error = ex.Message });
+            }
         }
-
     }
 }

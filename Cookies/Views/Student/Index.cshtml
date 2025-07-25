@@ -1,0 +1,28 @@
+@model String
+@{
+    ViewData["Title"] = "Student Index";
+}
+<h2>@ViewData["Title"]</h2>
+
+@if (!string.IsNullOrEmpty(Model))
+{
+    <p>Welcome, @Model!</p>
+
+    @Html.ActionLink("Forget Me", "Delete")
+}
+else
+{
+    <form asp-action="Index">
+        <span>
+            Hey,seems like it's your first time here!
+            Please provide your name so we can remember you next time.
+        </span> <br>
+        <label for="name"> Please Provide your Name:</label>
+        <br>
+        @Html.TextBox("userName")
+        <br><br>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary" />
+        </div>
+    </form>
+}

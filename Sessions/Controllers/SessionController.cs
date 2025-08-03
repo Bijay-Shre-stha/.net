@@ -19,5 +19,35 @@ public class SessionController : Controller
 
         return View(user);
     }
+
+    public IActionResult GetQueryString(string name, int age)
+    {
+        User user = new User
+        {
+            Name = name,
+            Age = age
+        };
+        return View("Details", user);
+    }
+
+
+    [HttpGet]
+    public IActionResult SetHiddenFieldValue()
+    {
+        User user = new User()
+        {
+            Id = 1209,
+            Name = "Bijay Shrestha",
+            Age = 22
+        };
+        return View("Hidden", user);
+    }
+    [HttpPost]
+    public IActionResult SetHiddenFieldValue(User user)
+    {
+        var id = user.Id;
+        ViewBag.ID = id;
+        return View("Hidden", user);
+    }
 }
 

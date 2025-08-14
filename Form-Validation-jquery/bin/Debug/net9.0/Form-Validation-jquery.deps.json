@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Form-Validation-jquery/1.0.0": {
+        "runtime": {
+          "Form-Validation-jquery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Form-Validation-jquery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

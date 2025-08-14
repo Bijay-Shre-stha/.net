@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cookies", "Cookies\Cookies.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessions", "Sessions\Sessions.csproj", "{80A67C84-2680-4836-8384-EE88A17FBD83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form-Validation-jquery", "Form-Validation-jquery\Form-Validation-jquery.csproj", "{1FE78C74-0666-4290-8810-A600991D0057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -531,6 +533,18 @@ Global
 		{80A67C84-2680-4836-8384-EE88A17FBD83}.Release|x64.Build.0 = Release|Any CPU
 		{80A67C84-2680-4836-8384-EE88A17FBD83}.Release|x86.ActiveCfg = Release|Any CPU
 		{80A67C84-2680-4836-8384-EE88A17FBD83}.Release|x86.Build.0 = Release|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Debug|x64.Build.0 = Debug|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Debug|x86.Build.0 = Debug|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Release|x64.ActiveCfg = Release|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Release|x64.Build.0 = Release|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Release|x86.ActiveCfg = Release|Any CPU
+		{1FE78C74-0666-4290-8810-A600991D0057}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

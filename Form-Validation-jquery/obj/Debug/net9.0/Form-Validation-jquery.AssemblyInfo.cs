@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Form-Validation-jquery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b480dba345627262bda3ca2b489266c747fdd2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+202e7966c954ececb5420ffac8dacae80660ff8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Form-Validation-jquery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Form-Validation-jquery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,7 @@
+D:\6 sem\dot-net\Web\IIS-hosting\publish\IIS-hosting.exe
+D:\6 sem\dot-net\Web\IIS-hosting\publish\appsettings.Development.json
+D:\6 sem\dot-net\Web\IIS-hosting\publish\appsettings.json
+D:\6 sem\dot-net\Web\IIS-hosting\publish\IIS-hosting.dll
+D:\6 sem\dot-net\Web\IIS-hosting\publish\IIS-hosting.deps.json
+D:\6 sem\dot-net\Web\IIS-hosting\publish\IIS-hosting.runtimeconfig.json
+D:\6 sem\dot-net\Web\IIS-hosting\publish\IIS-hosting.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\bin\Debug\net9.0\Q1-base.exe
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\bin\Debug\net9.0\Q1-base.deps.json
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\bin\Debug\net9.0\Q1-base.runtimeconfig.json
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\bin\Debug\net9.0\Q1-base.dll
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\bin\Debug\net9.0\Q1-base.pdb
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\Q1-base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\Q1-base.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\Q1-base.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\Q1-base.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\Q1-base.dll
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\refint\Q1-base.dll
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\Q1-base.pdb
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\Q1-base.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Practical Labs\Q1-base\obj\Debug\net9.0\ref\Q1-base.dll

@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\bin\Debug\net9.0\Q3-auto.exe
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\bin\Debug\net9.0\Q3-auto.deps.json
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\bin\Debug\net9.0\Q3-auto.runtimeconfig.json
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\bin\Debug\net9.0\Q3-auto.dll
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\bin\Debug\net9.0\Q3-auto.pdb
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\Q3-auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\Q3-auto.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\Q3-auto.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\Q3-auto.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\Q3-auto.dll
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\refint\Q3-auto.dll
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\Q3-auto.pdb
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\Q3-auto.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Practical Labs\Q3-auto\obj\Debug\net9.0\ref\Q3-auto.dll
